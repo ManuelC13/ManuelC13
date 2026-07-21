@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy &lt;Manuel/&gt;! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>¡Hola, soy Manuel! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Estudiante de la carrera de **Ingeniería de Software** en la **Universidad Autónoma de Yucatán**, actualmente me encuentro en mi último semestre de la carrera.
 Estoy ampliando mis conocimientos en desarrollo front-end y back-end, y me apasiona aprender y crear soluciones.
@@ -39,3 +39,9 @@ Estoy ampliando mis conocimientos en desarrollo front-end y back-end, y me apasi
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/manuel.cupul.391)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<div align="center">
+  
+  ![snake gif](https://github.com/ManuelC13/ManuelC13/blob/output/github-snake-dark.svg)
+</div>
