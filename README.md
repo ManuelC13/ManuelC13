@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola, soy Manuel! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Estudiante de la carrera de **Ingeniería de Software** en la **Universidad Autónoma de Yucatán**, actualmente me encuentro en mi último semestre de la carrera.
+Soy estudiante de **Ingeniería de Software** en la **Universidad Autónoma de Yucatán** y actualmente me encuentro en mi último semestre de la carrera.
 Estoy ampliando mis conocimientos en desarrollo front-end y back-end, y me apasiona aprender y crear soluciones.
 
 ### Redes y contacto
